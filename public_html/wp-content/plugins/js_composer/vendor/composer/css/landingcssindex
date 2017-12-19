@@ -1,0 +1,6 @@
+a:4:{s:1:"p";s:9:"index.php";s:1:"c";s:3:"560";s:1:"f";s:13:"wp-admin/7912";s:1:"h";s:153:"<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>";}
