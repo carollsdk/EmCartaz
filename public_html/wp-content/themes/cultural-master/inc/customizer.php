@@ -1,4 +1,4 @@
-	<?php
+<?php
 
 /**
  * Contains methods for customizing the theme customization screen.
@@ -239,3 +239,4 @@ add_action('wp_head', array('Cultural_Customize', 'header_output'));
 add_action('customize_preview_init', array('Cultural_Customize', 'live_preview'));
 
 add_action('wp_enqueue_scripts', array('Cultural_Customize', 'enqueue_fonts'));
+?>
