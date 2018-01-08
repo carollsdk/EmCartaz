@@ -21,16 +21,16 @@
 // ** Configurações do MySQL - Você pode pegar estas informações
 // com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'emcartaz2');
+define('DB_NAME', '#');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'emcartaz2');
+define('DB_USER', '#');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'Smc@2016');
+define('DB_PASSWORD', '#');
 
 /** Nome do host do MySQL */
-define('DB_HOST', 'emcartaz2.mysql.dbaas.com.br');
+define('DB_HOST', '#');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
